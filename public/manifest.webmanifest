@@ -1,0 +1,19 @@
+{
+  "name": "Agendai",
+  "short_name": "Agendai",
+  "description": "Sistema de agendamento com painel admin e controle de gastos.",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#e85d3a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
